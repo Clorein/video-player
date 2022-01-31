@@ -12,7 +12,7 @@ const progressBar = videoPlayer.querySelector('.video-progress-filled')
 playButton.addEventListener('click', (e) => {
   if(video.paused){
     video.play()
-    e.target.textContent = '❚ ❚'
+    e.target.textContent = '❚❚'
   } else {
     video.pause()
     e.target.textContent = '►'
