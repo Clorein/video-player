@@ -1,6 +1,6 @@
 # Interface Player de Vídeo
 
-##Tecnologias Utilizadas:
+## Tecnologias Utilizadas:
 
 + HTML
 + CSS 
