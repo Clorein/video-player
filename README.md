@@ -1,7 +1,7 @@
 # Interface Player de Vídeo
 
-Tecnologias Utilizadas:
+##Tecnologias Utilizadas:
 
-HTML
-CSS 
-Javascript
++ HTML
++ CSS 
++ Javascript
